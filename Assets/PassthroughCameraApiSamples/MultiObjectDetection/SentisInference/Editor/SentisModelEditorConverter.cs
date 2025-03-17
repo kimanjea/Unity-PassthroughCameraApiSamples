@@ -8,7 +8,7 @@ using FF = Unity.Sentis.Functional;
 
 namespace PassthroughCameraSamples.MultiObjectDetection.Editor
 {
-    [MetaCodeSample("PassthroughCameraApiSamples-MultiObjectDetection")]
+    //[MetaCodeSample("PassthroughCameraApiSamples-MultiObjectDetection")]
     [CustomEditor(typeof(SentisInferenceRunManager))]
     public class SentisModelEditorConverter : UnityEditor.Editor
     {
